@@ -7,3 +7,4 @@ class Person():
         connections(set of person): Other people in the social network who know
         this person
     """
+class Employee(Person):
